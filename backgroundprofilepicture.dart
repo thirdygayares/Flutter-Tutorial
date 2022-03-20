@@ -1,5 +1,5 @@
    currentAccountPicture: GestureDetector(
-              child new CircleAvatar(
+              child: new CircleAvatar(
                 backgroundColor: Colors.grey,
               ),
             ),
